@@ -4,6 +4,7 @@ The Master - Detail excercise is a well-known coding excercise. The excercise co
 
 ## Running
 - `cargo run` to run
+- To add from the "API" call GET at 127.0.0.1:7878
 
 ## Crate Structure
 - database.rs: connects to i/o filesystem
@@ -29,7 +30,6 @@ This builds on knowledge/learning/practice from the Elevator Excercise and adds:
 - Read/write from external sources (file)
 
 Pending for a follow-up excercise:
-- Multiple threads
 - Smart Pointers (RC, ARC)
 - Asynchronous programming
 - Macros
